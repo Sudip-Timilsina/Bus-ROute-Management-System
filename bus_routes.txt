@@ -1,0 +1,4 @@
+1 pokhara mustang 500.00 400.00
+5 pokhara kathmandu 1000.00 600.00
+6487544 pokhara sdsd 0.00 0.00
+2 pokara japan 1000000.00 80000.00
